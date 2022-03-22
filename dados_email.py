@@ -1,2 +1,2 @@
-meu_email = 'teste.envioemail.python22'
-minha_senha = '.12345678.'
+meu_email = 'seu_email'
+minha_senha = 'sua senha'
