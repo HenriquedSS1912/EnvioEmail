@@ -13,4 +13,4 @@ Email: rike2807@gmail.com!
 
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/henrique-da-silva-sousa-2a077622b/).
 
-Além disso, você pode usar este projeto como quiser, seja para uso pessoal, seja para fazer melhorias!
+Além disso, você pode usar este projeto como quiser, seja para uso pessoal ou para fazer melhorias!
